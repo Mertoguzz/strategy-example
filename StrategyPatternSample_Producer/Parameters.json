@@ -1,0 +1,11 @@
+{
+  "rabbitMqConfigs": {
+    "hostName": "localhost",
+    "queueName": "Queue-RabbitMqTest"
+  },
+
+  "MsMqConfigs": {
+    "hostName": "localhost",
+    "queueName": "Queue-MsMqTest"
+  }
+}
